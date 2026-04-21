@@ -31,3 +31,5 @@ const JujutsuCard = ({ character, role }) => {
 };
 
 export default JujutsuCard;
+
+//Los cambios xDDD
